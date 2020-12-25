@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1,FelSport1 Gemzo
+http://flu.gemzo.net/FelSport1/index.m3u8
+#EXTINF:-1,FelSport2 Gemzo
+http://flu.gemzo.net/FelSport2/index.m3u8
+#EXTINF:-1,FelSport3 Gemzo
+http://flu.gemzo.net/FelSport3/index.m3u8
+
+
+
