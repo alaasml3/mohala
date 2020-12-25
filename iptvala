@@ -5,6 +5,293 @@ http://flu.gemzo.net/FelSport1/index.m3u8
 http://flu.gemzo.net/FelSport2/index.m3u8
 #EXTINF:-1,FelSport3 Gemzo
 http://flu.gemzo.net/FelSport3/index.m3u8
+#EXTINF:-1,RayaHD 1
+http://vstream3.hadara.ps:8081/RayaHD1_web/web/playlist.m3u8
+#EXTINF:-1,RayaHD 2 
+http://vstream3.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8
+#EXTINF:-1,RayaHD 3 
+http://vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
+
+
+#EXTINF:-1,horyaa 1 
+http://vstream3.hadara.ps:8081/hrHD_web/web1/chunks.m3u8
+#EXTINF:-1,horyaa 2 
+http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+#EXTINF:-1,horyaa 3
+http://vstream3.hadara.ps:8081/hrHD1_web/web/chunks.m3u8
+
+
+#EXTINF:-1,ShababFM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+
+
+
+#EXTINF:-1,Hala Ramallah
+
+https://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,PNN
+http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
+
+#EXTINF:-1,Hawana
+http://streaming.zaytonatube.com:8080/hawana/hawana/index.m3u8
+
+
+#EXTINF:-1,Btv 
+http://htvint.mada.ps:8889/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Btv 1
+http://live.btv2020.com:1935/live/btv/playlist.m3u8
+#EXTINF:-1,Btv 2
+http://live.btv2020.com:1935/live/btv2/playlist.m3u8
+
+#EXTINF:-1,Btv new 
+http://stream2.blue.ps:1935/live/btv/playlist.m3u8
+#EXTINF:-1,Btv new 2
+http://stream2.blue.ps:1935/live/btv2/playlist.m3u8
+
+#EXTINF:-1,Nablus
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+
+
+#EXTINF:-1,Nablus 1 live Z
+http://streaming.zaytonatube.com:8080/nb/nb/video.m3u8
+
+#EXTINF:-1,Nablus 2 live Z
+http://streaming.zaytonatube.com:8080/nablusmix2/nablusmix2/video.m3u8
+
+
+#EXTINF:-1,Quran Nablus Z
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+
+#EXTINF:-1,Yamama Z
+http://streaming.zaytonatube.com:8080/yamama/yamama/index.m3u8
+
+#EXTINF:-1,Raya1 
+http://vstream3.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
+
+#EXTINF:-1,Wattan HD
+http://vstream3.hadara.ps:8081/WattanHD/WattanHD/chunks.m3u8
+
+#EXTINF:-1,Wattan HD مهم
+http://217.21.0.15:8081/WattanHD/WattanHD/chunks.m3u8
+
+#EXTINF:-1,Watan mada 
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,Rehan
+http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
+
+
+
+#EXTINF:-1,RayaHD 1 مصدر مهم
+http://217.21.0.15:8081/RayaHD1_web/web/playlist.m3u8
+#EXTINF:-1,RayaHD 2 مصدر مهم 
+http://217.21.0.15:8081/RayaHD_web/web1/chunks.m3u8
+#EXTINF:-1,RayaHD 3 مصدر مهم
+http://217.21.0.15:8081/RayaHD2_web/web/chunks.m3u8
+
+#EXTINF:-1,Raya1  مصدر مهم 
+http://217.21.0.15:8081/RayaHD_web/web/chunks.m3u8
+
+
+#EXTINF:-1,marahFM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1,OMG
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist_w1405499098.m3u8
+
+
+#EXTINF:-1,Nas Radio vpn
+http://vstream3.hadara.ps:8081/NasRadio_web/web/chunks.m3u8
+
+
+#EXTINF:-1,Audeh
+
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Amwaj 1 
+http://vstreamgz.hadara.ps:8081/Amwaj/Amwaj/playlist.m3u8
+
+#EXTINF:-1,Najah new
+http://htvpalsat.mada.ps:8888/najah/index.m3u8
+
+
+#EXTINF:-1,Hala
+http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+
+#EXTINF:-1,watar.movies new 
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1,Quds Edu
+http://streaming.qou.edu:1935/live/smil:Stream.smil/chunklist_w1011498048_b1128000_sleng.m3u8
+
+#EXTINF:-1,Adwaa Nab
+http://htvmada.mada.ps:8888/adwa2tv/index.m3u8
+
+
+#EXTINF:-1,Makan
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/playlist.m3u8
+#EXTINF:-1,plestiney 
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1,Al falesteniye
+http://htvmada.mada.ps:8888/ftv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1,orooba mada
+http://htvmada.mada.ps:8888/orooba/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,PNN mada
+http://htvmada.mada.ps:8888/pnn/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,Raya Old 
+http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
+
+
+#EXTINF:-1,Wattan غزه
+http://vstreamgz.hadara.ps:8081/WattanHD/WattanHD/chunks.m3u8
+
+
+#EXTINF:-1,Al mahd
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+
+
+#EXTINF:-1,RayaHD 1 غزه
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/playlist.m3u8
+
+#EXTINF:-1,RayaHD 2 غزه
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8
+
+#EXTINF:-1,RayaHD 3 غزه
+http://vstreamgz.hadara.ps:8081/RayaHD2_web/web/playlist.m3u8
+
+#EXTINF:-1,RayaHD 1 mada new
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RayaHD1 mada
+http://htvmada.mada.ps:8888/raya/index.m3u8
+#EXTINF:-1,RayaHD 2 mada
+http://htvmada.mada.ps:8889/raya2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,7la FM 
+http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/playlist.m3u8
+#EXTINF:-1,orient2
+http://htvmada.mada.ps:8888/orient2/index.m3u8
+
+#EXTINF:-1,sharq 
+http://htvmada.mada.ps:8888/sharq/mono.m3u8
+#EXTINF:-1,isharq 1سبورت
+http://htvmada.mada.ps:8888/sharqsport/index.m3u8
+#EXTINF:-1,isharq 2سبورت
+http://htvmada.mada.ps:8888/sharqsport2/index.m3u8
+#EXTINF:-1,Belad
+http://htvmada.mada.ps:8888/beladtv/beladtv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Salam VPN
+http://htvpalsat.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Salam 2
+http://217.21.0.15:8081/salamtv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1,Amwaj 2 vpn
+http://vstreamgz.hadara.ps:8081/Amwaj2/Amwaj2/playlist.m3u8
+#EXTINF:-1,Amwaj 3 vpn
+http://vstreamgz.hadara.ps:8081/Amwaj3/Amwaj3/playlist.m3u8
+#EXTINF:-1,Shasha ضفه vpn 
+http://vstream3.hadara.ps:8081/ShashaHD_web/web1/chunks.m3u8
+#EXTINF:-1,Shasha غزه
+http://vstreamgz.hadara.ps:8081/ShashaHD_web/web1/chunks.m3u8
+
+#EXTINF:-1,horyaa1 غزه 
+http://vstreamgz.hadara.ps:8081/hrHD_web/web1/chunks.m3u8
+#EXTINF:-1,horyaa2 غزه
+http://vstreamgz.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+#EXTINF:-1,horyaa3 غزه 
+http://vstreamgz.hadara.ps:8081/hrHD1_web/web/chunks.m3u8
+
+
+#EXTINF:-1,mawal vpn
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
+
+#EXTINF:-1,KolAl-Nas Old
+http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KolAl-Nas New 
+http://htvpalsat.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,AlfajertvHD 1 
+http://vstream3.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 3
+http://vstream3.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 4 
+http://vstream3.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 5 
+http://vstream3.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+
+
+
+#EXTINF:-1,AlfajertvHD 1 مهم مصدر مهم 
+http://217.21.0.215:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 2 مهم مصدر مهم 
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 3 مهم مصدر مهم
+http://217.21.0.215:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 4 مهم مصدر مهم
+http://217.21.0.215:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 5 مهم مصدر مهم
+http://217.21.0.215:8081/AlfajertvHD2_web/web1/chunks.m3u8
+
+
+#EXTINF:-1,AlfajertvHD 1 مصدر مهم
+http://217.21.0.15:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 3 مصدر مهم
+http://217.21.0.15:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 4 مصدر مهم
+http://217.21.0.15:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 5 مصدر مهم
+http://217.21.0.15:8081/AlfajertvHD2_web/web1/chunks.m3u8
+
+
+#EXTINF:-1,Alfajertv HD UNV
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
+
+#EXTINF:-1,Alfajertv FullHD 
+http://vstream2.hadara.ps:8081/AlfajertvHDFull_web/web/playlist.m3u8
+
+
+
+
+#EXTINF:-1,AlfajertvHD 1 -----
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 2 -----
+http://vstream2.hadara.ps:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 3 -----
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 4 -----
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,AlfajertvHD 5 -----
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+
+#EXTINF:-1,AlfajertvHD1 غزه
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD3 غزه
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1,AlfajertvHD4 غزه
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,AlfajertvHD5 غزه
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
 
 
 
